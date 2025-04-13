@@ -1,0 +1,6 @@
+remote_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQEQ38ck0mKg6gp9EA_4FkYApAYWtFGh7U4zooRo7kbxiU5PIUZ9CT6BsBW-7Ym79nkmcQdqw8phZ-9/pub?output=csv"
+proj_dir: "C:/Users/valen/Downloads"
+data_format: "GSheets"
+geocoder_prefix_url: "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address="
+geocoder_suffix_url: "&benchmark=2020&format=json"
+destination: "C:/Users/valen/Documents/ArcGIS/GIS305/GeoSpatial Programming/westnileoutbreak/WestNileOutbreak/WestNileOutbreak.gdb"
