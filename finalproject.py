@@ -7,7 +7,7 @@ finalproject.py
 Sets spatial reference and creates 'final_analysis' by erasing
 sensitive zones (avoid_points_buf) from high-risk mosquito areas.
 
-Author: Valen
+Author: Valen (Austin) Fisher
 Date: May 2025
 """
 
